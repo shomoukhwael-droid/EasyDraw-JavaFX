@@ -35,6 +35,7 @@ This project was created by[cite: 1]:
 
 
 
-##  Documentation & Source Code
+## 📑 Documentation & Source Code
 
-The full project documentation, architectural UI design, and source code are available in the PDF file attached to this repository[cite: 1].
+The full project documentation, architectural UI design, and source code are archived here:
+👉 [View EasyDraw Documentation PDF](./EasyDraw-Documentation.pdf)
