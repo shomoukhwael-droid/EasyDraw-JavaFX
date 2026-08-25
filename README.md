@@ -38,4 +38,4 @@ This project was created by[cite: 1]:
 ## 📑 Documentation & Source Code
 
 The full project documentation, architectural UI design, and source code are archived here:
-👉 [View EasyDraw Documentation PDF](./EasyDraw-Documentation.pdf)
+👉 [View EasyDraw Documentation PDF]("C:\Users\someo\Downloads\EasyDraw-Documentation.pdf.pdf")
